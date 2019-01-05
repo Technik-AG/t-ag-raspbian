@@ -219,20 +219,6 @@ maintenance and allows for more easy customization.
    you were looking for something between truly minimal and Raspbian-Lite,
    here's where you start trimming.
 
- - **Stage 3** - desktop system.  Here's where you get the full desktop system
-   with X11 and LXDE, web browsers, git for development, Raspbian custom UI
-   enhancements, etc.  This is a base desktop system, with some development
-   tools installed.
-
- - **Stage 4** - Raspbian system meant to fit on a 4GB card.  More development
-   tools, an email client, learning tools like Scratch, specialized packages
-   like sonic-pi, system documentation, office productivity, etc.  This is the
-   stage that installs all of the things that make Raspbian friendly to new
-   users.
-
- - **Stage 5** - The official Raspbian Desktop image. Right now only adds
-   Mathematica.
-
 ### Stage specification
 
 If you wish to build up to a specified stage (such as building up to stage 2
