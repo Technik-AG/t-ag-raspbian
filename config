@@ -3,5 +3,5 @@ FIRST_USER_NAME=tag
 ENABLE_SSH=1
 
 # information for the issue file 
-PI_GEN=a customised version of pi-gen
-PI_GEN_REPO=https://github.com/Technik-AG/t-ag-raspbian/
+PI_GEN="a customised version of pi-gen"
+PI_GEN_REPO="https://github.com/Technik-AG/t-ag-raspbian/"
